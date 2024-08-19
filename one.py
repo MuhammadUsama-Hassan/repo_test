@@ -6,11 +6,11 @@ print(var_1.title())
 print(var_1.find('a'))
 
 
-
 var_list = [1,2,3,4 ,5,6,7,8,9,10]
 print(var_list)
 
 var_list = list()
+
 
 
 list_of_all_dt =['Aplha',1,1.1, True, [1,2]]
